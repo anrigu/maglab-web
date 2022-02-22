@@ -16,6 +16,7 @@ import Profile from "./components/profile.component";
 // import BoardAdmin from "./components/board-admin.component";
 import File from "./components/file.component";
 
+//INIT PUSH
 class App extends Component {
   constructor(props) {
     super(props);
